@@ -1,14 +1,17 @@
-# Data Exploration and Learning for Precision Health Intelligence (DELPHI) Data Science Initiative 
-## The University of Utah
+# Data Exploration and Learning for Precision Health Intelligence (DELPHI) Data Science Initiative at The University of Utah
+
+## Overview
 Biomedical data science integrates large, complex data sets with innovative computational approaches to create actionable insights across biological and medical applications. The DELPHI Data Science Initiative aims to drive innovation in health and medicine by catalyzing biomedical data science research.
 
 [DELPHI Webpage](https://uofuhealth.utah.edu/delphi-data-science-initiative)  
 [One Utah Data Science Hub Webpage](https://www.research.utah.edu/one-utah-data-science-hub/)  
 [Data Science and Ethics of Technology (DATASET) Initiative Webpage](https://www.research.utah.edu/one-utah-data-science-hub/data-science-ethics-of-technology-initiative-dataset/)  
 [Utah Center for Data Science Webpage](https://datascience.utah.edu/)  
-Send any requests for content inclusion to [Penny Atkins](mailto:pennyatkins@hsc.utah.edu).
+  
+Send any requests for content inclusion to [Penny Atkins](mailto:pennyatkins@hsc.utah.edu).  
+
 ***
-## Overview
+
 1. [Seminars and Events](#seminars-and-events)
 2. [Funding Opportunities](#funding-opportunities)
 3. [Education and Training](#education-and-training)
@@ -23,6 +26,15 @@ Alternatively, try our [embedded calendar](https://calendar.google.com/calendar/
 ***
 # Funding Opportunities
 A complete list **(WIP)** of funding opportunities in the data science space can be found [here](https://docs.google.com/spreadsheets/d/1tPtUZ1vtmAibAaKuV6eR0h0mgwkxfKMm/edit#gid=364844323).
+
+### NIH Funding Opportunities
+* **All of Us partners with NIH Institutes and Centers to promote workforce diversity in genomics, bioinformatics, and bioengineering.** 
+*All of Us*, the National Human Genome Research Institute, and the National Institute of Biomedical Imaging and Bioengineering invite grant applications that propose independent research projects within the scientific mission areas of these institutions. 
+The intent is to support early-stage and new investigators from diverse backgrounds, including those from groups underrepresented in the health-related sciences. 
+[Learn more and apply by February 22, 2024](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-21-041.html)  
+* **All of Us and NIH ICs announce a funding opportunity on reporting environmental health and non-genomic research results.**
+To inform future research activities, *All of Us*, along with the National Institute of Environmental Health Sciences and the NIH Office of Science Policy, has published an announcement to solicit applications for projects that identify, develop, and test strategies for reporting environmental health and non-genomic research results to study participants and/or key partners. 
+Optional letters of intent are due May 15, 2023. [Learn more and apply by June 15, 2023.](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)  
 
 ### NSF Funding Opportunities
 * [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds)
