@@ -3,10 +3,11 @@
 ## Overview
 Biomedical data science integrates large, complex data sets with innovative computational approaches to create actionable insights across biological and medical applications. The DELPHI Data Science Initiative aims to drive innovation in health and medicine by catalyzing biomedical data science research.
 
-[DELPHI Webpage](https://uofuhealth.utah.edu/delphi-data-science-initiative)  
-[One Utah Data Science Hub Webpage](https://www.research.utah.edu/one-utah-data-science-hub/)  
-[Data Science and Ethics of Technology (DATASET) Initiative Webpage](https://www.research.utah.edu/one-utah-data-science-hub/data-science-ethics-of-technology-initiative-dataset/)  
-[Utah Center for Data Science Webpage](https://datascience.utah.edu/)  
+**Associated Webpages**  
+* [DELPHI Webpage](https://uofuhealth.utah.edu/delphi-data-science-initiative)  
+* [One Utah Data Science Hub Webpage](https://www.research.utah.edu/one-utah-data-science-hub/)  
+* [Data Science and Ethics of Technology (DATASET) Initiative Webpage](https://www.research.utah.edu/one-utah-data-science-hub/data-science-ethics-of-technology-initiative-dataset/)  
+* [Utah Center for Data Science Webpage](https://datascience.utah.edu/)  
   
 Send any requests for content inclusion to [Penny Atkins](mailto:pennyatkins@hsc.utah.edu).  
 
@@ -20,28 +21,27 @@ Send any requests for content inclusion to [Penny Atkins](mailto:pennyatkins@hsc
 
 ***
 # Seminars and Events
-Check out our list of [seminars](https://docs.google.com/spreadsheets/d/1HfGwsBgC5uBEpXf6oQcGvmXopBwh9HZpcLanwJ5GspQ/edit#gid=0).  
-We have also included upcoming events and seminars in our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) of upcoming events and seminars. 
-Alternatively, try our [embedded calendar](https://calendar.google.com/calendar/embed?src=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com&ctz=America%2FDenver).
+* Check out our list of [seminars](https://docs.google.com/spreadsheets/d/1HfGwsBgC5uBEpXf6oQcGvmXopBwh9HZpcLanwJ5GspQ/edit#gid=0).  
+* We have also included upcoming events and seminars in our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) of upcoming events and seminars.  
+{% include calendar.html %}
 
 ***
 # Funding Opportunities
 A complete list **(WIP)** of funding opportunities in the data science space can be found [here](https://docs.google.com/spreadsheets/d/1tPtUZ1vtmAibAaKuV6eR0h0mgwkxfKMm/edit#gid=364844323).
 
 ### NIH Funding Opportunities
-* **All of Us partners with NIH Institutes and Centers to promote workforce diversity in genomics, bioinformatics, and bioengineering.** 
-*All of Us*, the National Human Genome Research Institute, and the National Institute of Biomedical Imaging and Bioengineering invite grant applications that propose independent research projects within the scientific mission areas of these institutions. 
-The intent is to support early-stage and new investigators from diverse backgrounds, including those from groups underrepresented in the health-related sciences. 
-[Learn more and apply by February 22, 2024](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-21-041.html)  
-* [Promote Workforce Diversity in Genomics, Bioinformatics, or Bioengineering and Biomedical Imaging Research, R01](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-21-041.html)  
+* [**Strategies for Responsibly Reporting Back Environmental Health and Non-Genomic Research Results**](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)  
+	* Supports projects that will identify, develop and/or adapt, as well as test strategies for responsibly reporting back environmental health, non-genomic research, and gene-environment interaction (GxE) results to research participants and/or key partners (for example, health care professionals, IRBs, and policy makers)
+	* Deadline: June 15, 2023 (LOI due May 15, 2023)
+	* Award: R01, $250K/year for durations up to four years
+	
+* [**Promote Workforce Diversity in Genomics, Bioinformatics, or Bioengineering and Biomedical Imaging Research**](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-21-041.html)  
 	* Supports Early Stage Investigators and New Investigators from diverse backgrounds doing research within specific mission areas of NHGRI, NIBIB, and *All of Us* Research Program.  
 	* Deadline: February 22, 2024
-	* Award:  $500,00 per year; up to 5 years
-	* NOTE THIS IS THE SAME AS THE ABOVE BULLET JUST IN A DIFFERENT FORMAT  
-* **All of Us and NIH ICs announce a funding opportunity on reporting environmental health and non-genomic research results.**
-To inform future research activities, *All of Us*, along with the National Institute of Environmental Health Sciences and the NIH Office of Science Policy, has published an announcement to solicit applications for projects that identify, develop, and test strategies for reporting environmental health and non-genomic research results to study participants and/or key partners. 
-Optional letters of intent are due May 15, 2023. [Learn more and apply by June 15, 2023.](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)  
-* [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/)  
+	* Award: R01, $500K per year for durations up to 5 years
+
+
+* [**Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)**](https://www.aim-ahead.net/call-for-proposals-year-2/)  
 	* [Consortium Development Projects to Advance Health Equity](https://www.aim-ahead.net/call-for-proposals-year-2/consortium-development-projects/)  
 		* Deadline: June 20, 2023 (LOI due May 10, 2023)  
 	* [Data and Infrastructure Capacity Building (DICB)](https://www.aim-ahead.net/call-for-proposals-year-2/) Coming Soon! 
@@ -126,7 +126,7 @@ Optional letters of intent are due May 15, 2023. [Learn more and apply by June 1
 	* Deadline: February 1, 2024
 	* Award: $600K *(UCSS and RSSD)* - $1.2M *(TCR)* for durations up to three years
 	
-* [**NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)**])https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering)
+* [**NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)**](https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering)
 	* Supports institutions of higher education to fund scholarships for academically talented low-income students and to study and implement a program of activities that support their recruitment, retention and graduation in STEM.
 		* Track 1: Institutional Capacity Building
 		* Track 2: Implementation: Single Institution
@@ -150,12 +150,10 @@ Optional letters of intent are due May 15, 2023. [Learn more and apply by June 1
 * [**DCL: Advancing Research in the Geosciences Using Artificial Intelligence (AI) and Machine Learning (ML)**](https://new.nsf.gov/funding/opportunities/advancing-research-geosciences-using-artificial) <!-- Jan 20, 2023 -->
 * [**DCL: Cyberinfrastructure, Data and Computation Opportunities for CMMI**](https://new.nsf.gov/funding/opportunities/cyberinfrastructure-data-computation-opportunities) <!-- Oct 24, 2022 -->
 * [**DCL: Stimulating Integrative Research in Computational Cognition (CompCog)**](https://new.nsf.gov/funding/opportunities/stimulating-integrative-research-computational-1) <!--June 2, 2022-->
-<!-- 
-* * [** **]()
-	* 
-	* Deadline: 
-	* Award:
--->
+
+{% comment %}
+random text
+{% endcomment %}
 
 ### Additional Funding Opportunity Resources
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding)  
@@ -187,7 +185,7 @@ Additional Information can be found on the [website](https://uofudelphi.github.i
 * [NIH STRIDES Cloud Training](https://cloud.nih.gov/training/)  
 
 
-
+***
 # Data Resources  
 * [National Aeronautics and Space Administration (NASA) Commercial SmallSat Data Acquisition (CSDA) Program](https://www.earthdata.nasa.gov/esds/csda) provides high-quality commercial Earth observation data to NSF-funded researchers at no additional cost. Request access [here](https://csdap.earthdata.nasa.gov/signup/).  
 
